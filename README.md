@@ -1,8 +1,8 @@
-#### Digital Museum
- about history and civilisation
+### Digital Museum
 
 
-#### Explore 
+#### Explore evolution of civilization
+
 
 #### references in Digital Photography
 * [DGMD E-10: Exposing Digital Photography](http://digitalphotography.exposed/#contact)  
