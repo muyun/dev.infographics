@@ -1,7 +1,7 @@
 ### Digital Museum
 
 
-#### Explore evolution of civilization
+#### Explore the evolution of civilization
 
 
 #### references in Digital Photography
