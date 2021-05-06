@@ -1,4 +1,4 @@
 #### Digital Museum  
-  - Visualize the civilizations evolution?
+  - Visualize the civilization evolution?
 
 
